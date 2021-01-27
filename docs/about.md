@@ -14,5 +14,8 @@ You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
+我的小楷之路
+![welcome_page](https://res.cloudinary.com/bscc/image/upload/c_scale,w_1280/v1611497684/IMG_20210124_094113_slixo2.jpg)
+
 
 [jekyll-organization]: https://github.com/jekyll
